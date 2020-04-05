@@ -21,7 +21,7 @@ Esc 指令模式（弹到最下面）
 :q! 不保存文件，强制退出vi  
 :e! 放弃所有修改，从上次保存文件开始再编辑  `
 
-`halt 关机  
+`halt 关机   
 hwclock 看时间  
 hwclock(clock) --set --date="11/13/2017 09:26:00" 改硬件时间  
 hwclock(clock) --hctosys 系统时间=硬件时间  
